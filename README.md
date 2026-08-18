@@ -8,7 +8,7 @@
 
 Architecte logiciel depuis 2013 et enseignant depuis 2015, je fais le pont entre la conception de systèmes en environnement grand groupe et la transmission de ces sujets aux futurs développeurs, un mélange assez rare qui nourrit les deux rôles. Je conçois des solutions techniques sur des stacks variées (Java/Spring Boot, Python, React), en entreprise comme sur des projets persos.
 
-Depuis fin 2023, je travaille sur l'IA agentique : comment elle change la façon de concevoir et livrer du logiciel, et je construis des applications web/mobiles soignées, du prototype à la production. La plupart de mes projets sont confidentiels : n'hésite pas à me contacter si tu veux en discuter.
+Depuis fin 2023, je travaille sur l'IA agentique : comment elle change la façon de concevoir et livrer du logiciel, et je construis des applications web/mobiles soignées, du prototype à la production. J'ai une forte appétence pour la clean architecture appliquée à l'agentique : je construis des socles d'agents/skills réutilisables (qualité, tests, sécurité) qui s'adaptent à Claude Code, GitHub Copilot et Codex, quelle que soit la stack. La plupart de mes projets sont confidentiels : n'hésite pas à me contacter si tu veux en discuter.
 
 <details>
 <summary>🇬🇧 Read in English</summary>
@@ -16,7 +16,7 @@ Depuis fin 2023, je travaille sur l'IA agentique : comment elle change la façon
 
 Software architect since 2013 and teacher since 2015, I bridge system design in large enterprise settings with passing these topics on to future developers, a fairly rare mix that feeds both roles. I design technical solutions across a range of stacks (Java/Spring Boot, Python, React), both in enterprise and on personal projects.
 
-Since late 2023, I've been working on agentic AI: how it's reshaping how software gets designed and shipped, and building polished web/mobile applications from prototype to production. Most of my projects are confidential: feel free to reach out if you'd like to talk about them.
+Since late 2023, I've been working on agentic AI: how it's reshaping how software gets designed and shipped, and building polished web/mobile applications from prototype to production. I have a strong appetite for clean architecture applied to agentic workflows: I build reusable agent/skill foundations (quality, testing, security) that adapt to Claude Code, GitHub Copilot and Codex, regardless of the stack. Most of my projects are confidential: feel free to reach out if you'd like to talk about them.
 
 </details>
 
@@ -30,7 +30,7 @@ Since late 2023, I've been working on agentic AI: how it's reshaping how softwar
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </div>
 
-<p align="center"><sub>Forte appétence pour la <b>clean architecture</b> et le développement <b>agentique</b> : je construis des socles d'agents/skills réutilisables (qualité, tests, sécurité) qui s'adaptent à Claude Code, GitHub Copilot et Codex, quelle que soit la stack.</sub></p>
+<p align="center"><b>Clean architecture · Développement agentique</b></p>
 
 <br/>
 

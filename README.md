@@ -74,5 +74,8 @@ Right now I'm exploring how agentic AI is reshaping how software gets designed a
 
 <div align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=cjullien&show_icons=true&count_private=true&hide_border=true&title_color=2E9EF7&icon_color=2E9EF7" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=cjullien&hide_border=true&background=00000000&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub streak" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cjullien&hide_border=true&count_private=true&layout=compact&title_color=2E9EF7&langs_count=8" alt="Top langages" height="165" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=cjullien&hide_border=true&background=00000000&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" alt="GitHub streak" />
 </div>

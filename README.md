@@ -8,7 +8,7 @@
 
 Architecte logiciel depuis 2013 et enseignant depuis 2015, je fais le pont entre la conception de systèmes en environnement grand groupe et la transmission de ces sujets aux futurs développeurs, un mélange assez rare qui nourrit les deux rôles. Je conçois des solutions techniques sur des stacks variées (Java/Spring Boot, Python, React), en entreprise comme sur des projets persos.
 
-Depuis 2024, je travaille sur l'IA agentique : comment elle change la façon de concevoir et livrer du logiciel, et je construis des applications web/mobiles soignées, du prototype à la production. La plupart de mes projets sont confidentiels : n'hésite pas à me contacter si tu veux en discuter.
+Depuis fin 2023, je travaille sur l'IA agentique : comment elle change la façon de concevoir et livrer du logiciel, et je construis des applications web/mobiles soignées, du prototype à la production. La plupart de mes projets sont confidentiels : n'hésite pas à me contacter si tu veux en discuter.
 
 <details>
 <summary>🇬🇧 Read in English</summary>
@@ -16,7 +16,7 @@ Depuis 2024, je travaille sur l'IA agentique : comment elle change la façon de 
 
 Software architect since 2013 and teacher since 2015, I bridge system design in large enterprise settings with passing these topics on to future developers, a fairly rare mix that feeds both roles. I design technical solutions across a range of stacks (Java/Spring Boot, Python, React), both in enterprise and on personal projects.
 
-Since 2024, I've been working on agentic AI: how it's reshaping how software gets designed and shipped, and building polished web/mobile applications from prototype to production. Most of my projects are confidential: feel free to reach out if you'd like to talk about them.
+Since late 2023, I've been working on agentic AI: how it's reshaping how software gets designed and shipped, and building polished web/mobile applications from prototype to production. Most of my projects are confidential: feel free to reach out if you'd like to talk about them.
 
 </details>
 

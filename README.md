@@ -30,7 +30,7 @@ Since late 2023, I've been working on agentic AI: how it's reshaping how softwar
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </div>
 
-<p align="center"><sub>Forte appétence pour la <b>clean architecture</b> et le développement <b>agentique</b> (IA).</sub></p>
+<p align="center"><sub>Forte appétence pour la <b>clean architecture</b> et le développement <b>agentique</b> : je construis des socles d'agents/skills réutilisables (qualité, tests, sécurité) qui s'adaptent à Claude Code, GitHub Copilot et Codex, quelle que soit la stack.</sub></p>
 
 <br/>
 

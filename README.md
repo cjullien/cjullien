@@ -6,21 +6,21 @@
 
 <br/>
 
-Architecte logiciel depuis 2013, j'enseigne aussi à la faculté d'Aix-Marseille depuis 2015 : concevoir des systèmes en environnement grand groupe et transmettre ces sujets aux futurs développeurs se nourrissent mutuellement.
+Architecte logiciel depuis 2013 et enseignant à la faculté d'Aix-Marseille depuis 2015, je crois profondément à la synergie entre la conception de systèmes complexes et la transmission aux futurs développeurs.
 
-Depuis fin 2023, je me concentre sur l'IA agentique : je construis des socles d'agents/skills réutilisables (qualité, tests, sécurité) qui s'adaptent à Claude Code, GitHub Copilot et Codex, quelle que soit la stack, avec un attachement particulier à la clean architecture.
+En tant que CTO chez Capgemini, j'accompagne la transformation des organisations, tout en explorant activement depuis fin 2023 de nouveaux territoires comme l'IA agentique : je conçois des socles d'agents et de skills modulaires (qualité, tests, sécurité) agnostiques de la stack (Claude Code, GitHub Copilot, Codex), portés par une exigence rigoureuse de Clean Architecture.
 
-La plupart de mes projets sont confidentiels : n'hésite pas à me contacter si tu veux en discuter.
+La plupart de mes projets stratégiques étant sous NDA, n'hésite pas à m'écrire pour échanger sur l'architecture, l'IA, la tech, ou tout autre sujet connexe !
 
 <details>
 <summary>🇬🇧 Read in English</summary>
 <br/>
 
-Software architect since 2013, I've also taught at the University of Aix-Marseille since 2015: designing systems in large enterprise settings and passing these topics on to future developers feed off each other.
+Software architect since 2013 and lecturer at the University of Aix-Marseille since 2015, I believe deeply in the synergy between designing complex systems and mentoring future developers.
 
-Since late 2023, I've focused on agentic AI: building reusable agent/skill foundations (quality, testing, security) that adapt to Claude Code, GitHub Copilot and Codex, regardless of the stack, with a particular focus on clean architecture.
+As a CTO at Capgemini, I drive technical transformation while actively exploring new frontiers like agentic AI since late 2023: building modular agent and skill foundations (quality, testing, security) that are stack-agnostic (Claude Code, GitHub Copilot, Codex), built on a core commitment to Clean Architecture.
 
-Most of my projects are confidential: feel free to reach out if you'd like to talk about them.
+As most of my strategic projects are under NDA, feel free to reach out if you'd like to discuss architecture, AI, tech, or anything in between!
 
 </details>
 
